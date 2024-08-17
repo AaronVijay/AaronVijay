@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 </head>
 <!-- Inline CSS to apply the font -->
 <body>
-<h1 align="center"> <samp>Hi! I'm <a href="https://github.com/AaronVijay">Aaron Vijay Singh</a></samp></h1>
+<!-- <h1 align="center"> <samp>Hi! I'm <a href="https://github.com/AaronVijay">Aaron Vijay Singh</a></samp></h1> -->
 <!--   <div style="display:inline-block;border:1px solid red;">
     <p align="center">Interests:</p>
   </div> -->
